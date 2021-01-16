@@ -6,6 +6,8 @@ hello, I'm ndj.
 
 ## My goals for 2021.
 
+- Learn to new skill once a month.
+
 - Aim to Github contributions over 1500 per this year.
 
 - Aim to release "17-6-dishes", the application that my plan to create with ReactNative.
