@@ -1,8 +1,7 @@
 # Hello
 hello, I'm ndj.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ndjndj)](https://github.com/ryo-ma/github-profile-trophy)
-
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ndjndj&theme=dark)
 
 ## My goals for 2021.
 
