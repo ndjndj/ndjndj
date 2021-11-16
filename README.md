@@ -1,7 +1,7 @@
 # Hello
 hello, I'm ndj.
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ndjndj&theme=dark)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ndjndj&theme=radical)
 
 ## My goals for 2021.
 
