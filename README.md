@@ -1,13 +1,16 @@
 # ndjndj
-  
+
+<p></p>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=ndjndj&theme=radical&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndjndj&theme=radical&layout=compact" />
 </a>
-  
-  
+
+<p></p>
+
 ## My goals for 2021.
 
 - Learn to new skill once a month.
