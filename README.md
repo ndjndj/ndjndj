@@ -7,6 +7,7 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndjndj&theme=radical&layout=compact" />
 </a>
   
+  
 ## My goals for 2021.
 
 - Learn to new skill once a month.
