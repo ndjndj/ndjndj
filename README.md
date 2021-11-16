@@ -2,7 +2,7 @@
 hello, I'm ndj.
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ndjndj&theme=radical)
-
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ndjndj&layout=compact&theme=radical)
 ## My goals for 2021.
 
 - Learn to new skill once a month.
