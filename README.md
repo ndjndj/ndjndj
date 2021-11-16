@@ -1,8 +1,10 @@
-# Hello
-hello, I'm ndj.
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=ndjndj&theme=radical)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=ndjndj&layout=compact&theme=radical)
+# ndjndj
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=ndjndj&theme=radical&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndjndj" />
+</a>
 ## My goals for 2021.
 
 - Learn to new skill once a month.
