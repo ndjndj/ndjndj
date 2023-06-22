@@ -10,4 +10,4 @@ Dart(Flutter)/Python/JavaScript/SQL/Lambda/DynamoDB/S3/EFS/EC2/RDS/SNS/StepFunct
 - SSG やりたい
 - TypeScript をつかう
 - CloudFront がんばる
-
+- インフラのコード管理
