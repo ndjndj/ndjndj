@@ -11,3 +11,4 @@ Dart(Flutter)/Python/JavaScript/SQL/Lambda/DynamoDB/S3/EFS/EC2/RDS/SNS/StepFunct
 - TypeScript をつかう
 - CloudFront がんばる
 - インフラのコード管理
+- リポジトリを整理する
