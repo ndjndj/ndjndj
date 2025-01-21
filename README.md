@@ -1,9 +1,9 @@
 # ndjndj
 
-Dart(Flutter)/Python/JavaScript/SQL/Lambda/DynamoDB/S3/EFS/EC2/RDS/SNS/StepFunctions/VPC/meilisearch
+Ruby(Ruby on Rails)/Dart(Flutter)/Python/TypeScript/JavaScript/SQL/AWS/meilisearch
 
 ## 2025
-- コミットメッセージに fix とか書かない
+- コミットメッセージをちゃんと書く(fix とか書かない)
 - 30歳であることを知る
 - 活字を読む
 - 副菜のレパートリーを増やす
