@@ -8,6 +8,7 @@ Ruby(Ruby on Rails)/Dart(Flutter)/Python/TypeScript/JavaScript/SQL/AWS/meilisear
 - サイトをリリースする
   - 静的サイトジェネレーターもう一回使いたい
 - Zenn を引き続き書いていく
+- CI/CD パイプラインの構築
 - 30歳であることを知る
   - 無茶せず生産性を高めて成果を出していく
 - 活字を読む
@@ -19,3 +20,4 @@ Ruby(Ruby on Rails)/Dart(Flutter)/Python/TypeScript/JavaScript/SQL/AWS/meilisear
   - れんこん
   - 青梗菜
   - ごぼう
+  - 里芋
