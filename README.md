@@ -16,8 +16,10 @@ Ruby(Ruby on Rails)/Dart(Flutter)/Python/TypeScript/JavaScript/SQL/AWS/meilisear
   - 筑前煮
   - れんこんのきんぴら炒め
   - ほうれん草のお浸し
-- 買ったことない野菜を買う
+- 買ったことない食材を買う
   - れんこん
   - 青梗菜
   - ごぼう
   - 里芋
+  - 高菜
+  - いわし
