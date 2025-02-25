@@ -15,6 +15,8 @@ Ruby(Ruby on Rails)/Dart(Flutter)/Python/TypeScript/JavaScript/SQL/AWS/meilisear
 - IaC に入門する
 - 30歳であることを知る
   - 無茶せず生産性を高めて成果を出していく
+- 30歳であることを忘れる
+  - 面白いものは面白いといえるよう素直でいつづける
 - 活字を読む
 - 副菜のレパートリーを増やす
 - 買ったことない食材を買う
