@@ -12,6 +12,7 @@ Ruby(Ruby on Rails)/Dart(Flutter)/Python/TypeScript/JavaScript/SQL/AWS/meilisear
     - 開発関係じゃないこととかも書いていくイメージのもの
 - Zenn を引き続き書いていく
 - CI/CD パイプラインの構築
+- IaC に入門する
 - 30歳であることを知る
   - 無茶せず生産性を高めて成果を出していく
 - 活字を読む
