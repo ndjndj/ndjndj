@@ -32,6 +32,6 @@ Ruby(Ruby on Rails)/Dart(Flutter)/Python/TypeScript/JavaScript/SQL/AWS/meilisear
 - CI/CD パイプラインの構築
   - 2025/02/20 [一旦入門した](https://zenn.dev/ndjndj/articles/9d4452405bdb98)
 - 副菜のレパートリーを増やす
-  - 筑前煮/れんこんのきんぴら炒め/ほうれん草のお浸し
+  - 筑前煮/れんこんのきんぴら炒め/ほうれん草のお浸し/いわしの南蛮漬け
 - 買ったことない食材を買う
-  - れんこん/青梗菜/ごぼう/里芋/高菜/いわし/白菜
+  - れんこん/青梗菜/ごぼう/里芋/高菜/いわし/白菜/厚揚げ
